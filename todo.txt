@@ -1,0 +1,13 @@
+1. top sold-----------------------
+2. forgot passsword
+3. validation-------------------
+4. update cart---------------
+5. related products------------------
+6. restricted page
+7. view,delete and edit orders----------------
+8. edit products--------------
+9. site meta ----------------------
+10. pegination (if time)
+11. correct all link
+12. add new category ajax
+13. change image link and correct install
